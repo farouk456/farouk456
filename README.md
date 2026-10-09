@@ -52,19 +52,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farouk456&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouk456&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farouk456&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouk456&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" height="170" />
 </p>
 
----
-
-## 🏆 Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farouk456&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farouk456&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farouk456&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
