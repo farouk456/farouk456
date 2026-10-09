@@ -1,9 +1,9 @@
 <!-- README.md for Farouk Gafsi - GitHub Profile -->
 
-<h1 align="center">✨ Hey there, I'm <span style="color:#00C8FF;">Farouk Gafsi</span> 👋</h1>
+<h1 align="center">✨ Hey, I'm <span style="color:#00C8FF;">Farouk Gafsi</span> 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Laravel & Vue.js Enthusiast | UI/UX Dreamer</b><br>
+  <b>Full-Stack Developer · Laravel & Vue.js Specialist · UI/UX Focused</b><br>
   📍 Tunisia · ✉️ <a href="mailto:farouk.g@deep4digi.com">farouk.g@deep4digi.com</a> · 🌐 <a href="https://farouk.dev" target="_blank">farouk.dev</a>
 </p>
 
@@ -16,18 +16,17 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel+%2B+Vue.js+Expert;Clean+Code+%26+Creative+Design+Lover;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel+%2B+Vue.js+Specialist;Clean+Code+%26+Scalable+Architecture;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Eventa Solutions** – a modular event management platform.  
-- 🌱 Learning **Three.js**, **Cloud Deployments (AWS, Vercel)**, and **modern UI design**.  
-- 💬 Ask me about **Laravel**, **Vue 3**, **REST APIs**, or **frontend architecture**.  
-- 🎓 IT Engineer passionate about tech innovation & scalable systems.  
-- ⚡ Fun fact: I love building interactive dashboards and experimenting with creative UIs!
+- 💼 Full-Stack Developer specializing in **Laravel**, **Vue 3**, and **REST API architecture**.
+- 🌱 Continuously exploring **Three.js**, **cloud deployments**, and **modern UI/UX patterns**.
+- 🎓 IT Engineer passionate about scalable systems and elegant digital experiences.
+- ⚡ Focused on writing clean, maintainable code and building interfaces that feel effortless.
 
 ---
 
@@ -50,28 +49,6 @@
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🚀 Highlight Projects
-
-### 🎉 [Eventa Solutions](https://github.com/farouk456/Eventa)
-> 🧩 A complete event management solution built with **Laravel + Vue 3 + PrimeVue**.  
-> Manage organizers, roles, modules, and participants — all in one modern SPA.
-
-**Tech Used:** Laravel 10, Vue 3, PrimeVue, Spatie Roles, Stripe, MySQL
-
----
-
-### 🧠 [iRegister](https://github.com/farouk456/iregister)
-> ✨ A dynamic registration platform with drag-and-drop form creation, multi-language support, and OTP authentication.
-
-**Tech Used:** Laravel, Vue 3, Konva.js, GrapesJS, TailwindCSS
-
----
-
-### 💼 [Deep4Digi Internal Tools](#)
-> 🚀 Building private systems for automation, AI-assisted dashboards, and internal analytics.
 
 ---
 
@@ -107,10 +84,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/magic.gif" width="70" />
-</p>
 
 <p align="center">
   <strong>“Building experiences that inspire — one commit at a time.”</strong><br><br>
